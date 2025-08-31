@@ -1,3 +1,4 @@
+.env
 # Dependencies
 # ----------------------
 # Ignore the node_modules directory
@@ -10,10 +11,10 @@
 
 
 
-# Ignore all environment files to keep secrets safe
-.env
-.env.*
-!.env.example
+# # Ignore all environment files to keep secrets safe
+# .env
+# .env.*
+# !.env.example
 
 
 # Logs
