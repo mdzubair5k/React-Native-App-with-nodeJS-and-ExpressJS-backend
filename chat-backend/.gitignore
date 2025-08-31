@@ -6,6 +6,10 @@
 
 # Environment Variables
 # ----------------------
+
+
+
+
 # Ignore all environment files to keep secrets safe
 .env
 .env.*
