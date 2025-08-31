@@ -1,0 +1,36 @@
+# Dependencies
+# ----------------------
+# Ignore the node_modules directory
+/node_modules
+
+
+# Environment Variables
+# ----------------------
+# Ignore all environment files to keep secrets safe
+.env
+.env.*
+!.env.example
+
+
+# Logs
+# ----------------------
+# Ignore log files
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+
+# Production & Build
+# ----------------------
+# Ignore compiled or built output folders
+/dist
+/build
+
+
+# System Files
+# ----------------------
+# Ignore macOS and Windows system files
+.DS_Store
+Thumbs.db
