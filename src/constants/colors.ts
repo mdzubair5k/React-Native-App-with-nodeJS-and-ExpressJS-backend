@@ -1,0 +1,28 @@
+const Colors = {
+  background: '#f8f9fb',
+  white: '#ffffff',
+  lightGray: '#f1f1f1',
+  mediumGray: '#999999',
+  darkGray: '#888888',
+  primary: '#004aad',
+  black: '#000000',
+  darkText: '#1c1c1e',
+  grayLight: '#f8fafa',
+  grayBorder: '#eef1f4',
+  graySubText: '#6e6e73',
+  grayLine: '#e6e6e6',
+  grayText: '#666666',
+  cardLight: '#f9f9f9',
+  blueLight: '#dbeafe',
+  inputBg: '#F7F7F7',
+  borderGray: '#e0e0e0',
+  linkBlue: '#007bff',
+  buttonBlue: '#0850A4',
+  shadowColor: '#000000',
+  dividerGray: '#cccccc',
+  headerBlue: '#003377',
+  avatarBorder: '#0047AB',
+  cardBgBlue: 'rgba(0, 123, 255, 0.13)',
+};
+
+export default Colors;
